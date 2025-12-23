@@ -53,6 +53,27 @@ http://fin-conversational.lovable.app/auth
 -  Botão de nova transação
 -  Dica do dia para economia inteligente
 
+# 🗺️ Roadmap – FinançaIA
+
+## 🚀 MVP
+- Chat para registrar gastos em linguagem natural
+- Classificação automática de transações
+- Dashboard simples com saldo, receitas e despesas
+- Metas financeiras básicas
+- Relatórios simples e dicas do Agente Financeiro
+
+## 🔧 Próximas Etapas
+- Integração com bancos e cartões
+- Relatórios avançados com comparativos mensais
+- Alertas inteligentes de gastos e metas
+- Personalização de categorias de despesas
+
+## 🌟 Futuro
+- Versão premium com recomendações personalizadas
+- Exportação de dados (CSV/Excel)
+- Assistente financeiro com IA mais avançada
+- Comunidade de usuários para troca de dicas
+
 **Reflexão**
 ## O que funcionou:
 A utilização do Copilot para refinar o PRD e enviar ao Lovable com mais clareza, visando reduzir o gasto dos créditos diários, foi estratégica.
